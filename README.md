@@ -1,6 +1,6 @@
 # A Shared Encoder Approach to Multimodal Representation Learning
 
-This repository contains code to reproduce the paper A Shared Encoder Approach to Multimodal Representation Learning.
+This repository contains code to reproduce the paper [A Shared Encoder Approach to Multimodal Representation Learning](https://arxiv.org/abs/2503.01654).
 
 ## Setup
 
