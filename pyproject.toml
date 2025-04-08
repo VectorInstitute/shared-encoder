@@ -12,6 +12,7 @@ dependencies = [
     "pandas>=2.2.3",
     "torchmultimodal",
     "webdataset>=0.2.111",
+    "jinja2>=3.1.6",
 ]
 
 [tool.uv.sources]
